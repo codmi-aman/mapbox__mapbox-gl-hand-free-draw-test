@@ -1,9 +1,13 @@
 {
   "name": "mapbox__mapbox-gl-hand-free-draw-test",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "geojson": "*",
     "mapbox-gl": "*",
     "@mapbox/mapbox-gl-draw": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codmi-aman/mapbox__mapbox-gl-hand-free-draw-test.git"
   }
 }
